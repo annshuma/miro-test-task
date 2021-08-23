@@ -1,2 +1,2 @@
-from .messages import SignUpMessages
+from .messages import SignInMessages
 from .endpoints import Endpoints
